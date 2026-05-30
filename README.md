@@ -66,16 +66,10 @@ Features:
 
 Task1-AI-Research/
 
-* Task1_AI_Research_Presentation.pptx
-
 Task2-Prompt-Engineering/
-
-* Task2_Prompt_Engineering_FULL.md
 
 Task3-Automation-Workflow/
 
 * Task3_Automation_Workflow.md
-* workflow_flowchart.png
-* screenshots
 
 ---
