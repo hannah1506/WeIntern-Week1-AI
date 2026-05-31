@@ -64,12 +64,10 @@ Features:
 
 ## Repository Structure
 
-Task1-AI-Research/
+Task1-AI-Research
 
-Task2-Prompt-Engineering/
+Task2-Prompt-Engineering
 
-Task3-Automation-Workflow/
-
-* Task3_Automation_Workflow.md
+Task3-Automation-Workflow
 
 ---
